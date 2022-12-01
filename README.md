@@ -1,5 +1,5 @@
 # Port_Knocking
-Port knocking é um método de abrir portas externamente em um firewall, realizando tentativas de conexões em uma seqüência de portas fechadas pré-selecionadas
+Port knocking é um método de abrir portas externamente em um firewall, realizando tentativas de conexões em uma seqüência de portas fechadas pré-selecionadas.
 
 #### Funcionamento
 
