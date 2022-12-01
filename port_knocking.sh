@@ -5,7 +5,7 @@
 if [ "$1" == "" ]
 then
 echo "Hping - PortKnocking"
-echo "Modo de uso: ./script IP"
+echo "Modo de uso: ./port_knocking IP"
 else
 for port in {13,37,30000,3000}; 
 do
